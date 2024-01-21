@@ -15,8 +15,8 @@
 #
 
 PRODUCT_MAKEFILES := \
-   $(LOCAL_DIR)/lineage_note10pro.mk
+   $(LOCAL_DIR)/havoc_note10pro.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_note10pro-userdebug \
-    lineage_note10pro-eng
+    havoc_note10pro-userdebug \
+    havoc_note10pro-eng
