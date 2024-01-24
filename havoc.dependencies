@@ -10,7 +10,7 @@
     "branch": "eleven"
   },
   {
-    "repository": "PixelExperience/vendor_mediatek_interfaces",
+    "repository": "excaliburXD/vendor_mediatek_interfaces",
     "target_path": "vendor/mediatek/interfaces",
     "branch": "eleven"
   },
